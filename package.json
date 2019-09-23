@@ -1,16 +1,23 @@
 {
-  "name": "jwt-auth",
+  "name": "jwt-auth-demo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A small demo of JWT that I saw from a WebDevSimplified Youtube video. I wanted to give it a show. Full credit to that channel. https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+  "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js",
     "devStartAuth": "nodemon authServer.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "JWT",
+    "json",
+    "web",
+    "token",
+    "demo",
+    "webDevSimplified"
+  ],
+  "author": "Joseph Potentier-Neal, Web Dev Simplified",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.1.0",

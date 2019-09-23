@@ -1,7 +1,7 @@
 {
   "name": "jwt-auth-demo",
   "version": "1.0.0",
-  "description": "A small demo of JWT that I saw from a WebDevSimplified Youtube video. I wanted to give it a show. Full credit to that channel. https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+  "description": "A small demo of JWT that I saw from a WebDevSimplified Youtube video. I wanted to give it a shot. Full credit to that channel. https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
   "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js",
